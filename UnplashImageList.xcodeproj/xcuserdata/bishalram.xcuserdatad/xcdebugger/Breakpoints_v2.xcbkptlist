@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A1B3407B-75CB-4B7A-A28C-F62B9B953EC1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DBA853E-DFFE-4804-8F8C-39248F2B18C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnplashImageList/Network/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "request(route:method:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DBA853E-DFFE-4804-8F8C-39248F2B18C9 - 73ebf8ece5b68855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in UnplashImageList.APIClient.request(route: UnplashImageList.Route, method: UnplashImageList.HTTPMethod) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "4DBA853E-DFFE-4804-8F8C-39248F2B18C9 - 73ebf8ece5b68855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in UnplashImageList.APIClient.request(route: UnplashImageList.Route, method: UnplashImageList.HTTPMethod) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "4DBA853E-DFFE-4804-8F8C-39248F2B18C9 - 73ebf8ece5b68855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in UnplashImageList.APIClient.request(route: UnplashImageList.Route, method: UnplashImageList.HTTPMethod) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "4DBA853E-DFFE-4804-8F8C-39248F2B18C9 - 73ebf8ece5b68855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in UnplashImageList.APIClient.request(route: UnplashImageList.Route, method: UnplashImageList.HTTPMethod) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "4DBA853E-DFFE-4804-8F8C-39248F2B18C9 - 73ebf8ece5b68855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in UnplashImageList.APIClient.request(route: UnplashImageList.Route, method: UnplashImageList.HTTPMethod) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4BCAF7F-1C15-4D67-9F72-F6FD1B6C5E12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnplashImageList/Network/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "request(route:method:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4BCAF7F-1C15-4D67-9F72-F6FD1B6C5E12 - 7cbb4f9cceb04314"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnplashImageList.APIClient.request(route: UnplashImageList.Route, method: UnplashImageList.HTTPMethod, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1056">
+               </Location>
+               <Location
+                  uuid = "F4BCAF7F-1C15-4D67-9F72-F6FD1B6C5E12 - 4422550a939dbba1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnplashImageList.APIClient.request(route: UnplashImageList.Route, method: UnplashImageList.HTTPMethod) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC5DCA70-3506-4036-896A-566B83E3E86D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnplashImageList/Network/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "request(route:method:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC5DCA70-3506-4036-896A-566B83E3E86D - 4422550a939db835"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnplashImageList.APIClient.request(route: UnplashImageList.Route, method: UnplashImageList.HTTPMethod) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+               <Location
+                  uuid = "DC5DCA70-3506-4036-896A-566B83E3E86D - 73ebf8ece5b6891f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in UnplashImageList.APIClient.request(route: UnplashImageList.Route, method: UnplashImageList.HTTPMethod) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7F86045-FF76-45B1-A4DA-DA6868CF7E5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnplashImageList/Network/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "request(route:method:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45EDCAF3-AA39-4ED7-B1F3-51736CDF4297"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnplashImageList/Network/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "request(route:method:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8608EAD-06E2-48AA-9E52-A2E4D8BE1A8A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnplashImageList/Network/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "request(route:method:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13382E65-30D7-4C54-95C1-358A0D158699"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnplashImageList/LazyImageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "loadImage(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87F843FB-5EA0-4F41-B89C-AF0A79865199"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnplashImageList/Module/HomeScreen/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "collectionView(_:willDisplay:forItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87F843FB-5EA0-4F41-B89C-AF0A79865199 - 84bc5c73581abb7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnplashImageList.ViewController.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Module/HomeScreen/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "87F843FB-5EA0-4F41-B89C-AF0A79865199 - 615ce3436dbe238d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (UnplashImageList.URLs) -&gt; Swift.String in UnplashImageList.ViewController.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Module/HomeScreen/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "87F843FB-5EA0-4F41-B89C-AF0A79865199 - 84bc5c73581abb7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnplashImageList.ViewController.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Module/HomeScreen/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "87F843FB-5EA0-4F41-B89C-AF0A79865199 - 9573742fa1f5dec1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (UnplashImageList.UnsplashPhoto) -&gt; Swift.Optional&lt;UnplashImageList.URLs&gt; in UnplashImageList.ViewController.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "UnplashImageList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UnplashImageList/UnplashImageList/Module/HomeScreen/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "925D6A86-6AD1-4BAB-8F8B-0C7FE3736ADF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnplashImageList/Module/HomeScreen/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "collectionView(_:willDisplay:forItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFB6A03B-A036-4381-8CA5-36BFB52F30BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnplashImageList/Module/HomeScreen/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
