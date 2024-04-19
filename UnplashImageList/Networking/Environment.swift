@@ -22,7 +22,7 @@ extension Environment {
     var apiKey: String {
         switch self {
         case .test:
-            return "a1SwLwPcq2QJA7DfPjzXefAp5kQ1z1uhYcz4fFXe3HI"
+            return Constants.APIKey
         }
     }
 }
